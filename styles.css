@@ -1,0 +1,13 @@
+body {
+    min-height: 6000px;
+    background-color: #eee;
+}
+.scroller {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 0px;
+    height: 5px;
+    background-color: blue;
+}
